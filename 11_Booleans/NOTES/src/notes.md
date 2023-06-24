@@ -68,7 +68,7 @@ public class Main{
 }
 ```
 # IF ELSE EXAMPLE
-- more will follow in the next chapter pon if else 
+- more will follow in the next chapter on if else 
 
 ```java
 public class Main{
