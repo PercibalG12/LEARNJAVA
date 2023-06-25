@@ -45,10 +45,8 @@ public class Main {
 
   public static void main(String[] args) {
     myMethod();
-     // A method can also be called multiple times:
   }
 }
 
 // Outputs "I just got executed!"
 ```
-
