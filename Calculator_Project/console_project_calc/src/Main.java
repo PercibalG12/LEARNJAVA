@@ -38,9 +38,9 @@ public class Main {
                 System.out.println(result);
                 break;
             case 4:
-                while(num2==0){
+                while(num2==0.0F){
                     System.out.println("The divisor cannot be 0 please try again:");
-                    System.out.println("Re enter the divisor(num2):");
+                    System.out.print("Re enter the divisor(num2):");
                     num2 = scanner.nextFloat();
                 }
                 result = num1 / num2;
