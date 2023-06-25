@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06_Data_Types/00_Data_Types/00_Data_Types.iml" filepath="$PROJECT_DIR$/06_Data_Types/00_Data_Types/00_Data_Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Variables/00_Variables/00_Variables.iml" filepath="$PROJECT_DIR$/05_Variables/00_Variables/00_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_BoilerPlate/01_BoilerPlate.iml" filepath="$PROJECT_DIR$/01_BoilerPlate/01_BoilerPlate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Data_Types/01_Numbers/01_Numbers.iml" filepath="$PROJECT_DIR$/06_Data_Types/01_Numbers/01_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Variables/01_Print_Variables/01_Print_Variables.iml" filepath="$PROJECT_DIR$/05_Variables/01_Print_Variables/01_Print_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Data_Types/02_Booleans/02_Booleans.iml" filepath="$PROJECT_DIR$/06_Data_Types/02_Booleans/02_Booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Variables/02_Declare_Multiple_Variables/02_Declare_Multiple_Variables.iml" filepath="$PROJECT_DIR$/05_Variables/02_Declare_Multiple_Variables/02_Declare_Multiple_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Syntax/02_Syntax.iml" filepath="$PROJECT_DIR$/02_Syntax/02_Syntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Data_Types/03_Characters/03_Characters.iml" filepath="$PROJECT_DIR$/06_Data_Types/03_Characters/03_Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Variables/03_Identifiers/03_Identifiers.iml" filepath="$PROJECT_DIR$/05_Variables/03_Identifiers/03_Identifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Output/03_Output.iml" filepath="$PROJECT_DIR$/03_Output/03_Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Data_Types/04_Non_Primitives/04_Non_Primitives.iml" filepath="$PROJECT_DIR$/06_Data_Types/04_Non_Primitives/04_Non_Primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Type_Casting/07_Type_Casting.iml" filepath="$PROJECT_DIR$/07_Type_Casting/07_Type_Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Java_Operators/08_Java_Operators.iml" filepath="$PROJECT_DIR$/08_Java_Operators/08_Java_Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Math/10_Math.iml" filepath="$PROJECT_DIR$/10_Math/10_Math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Booleans/11_Booleans.iml" filepath="$PROJECT_DIR$/11_Booleans/11_Booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_If_Else/12_If_Else.iml" filepath="$PROJECT_DIR$/12_If_Else/12_If_Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Switch/13_Switch.iml" filepath="$PROJECT_DIR$/13_Switch/13_Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_While_loop/14_While_loop.iml" filepath="$PROJECT_DIR$/14_While_loop/14_While_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Break_Continue/16_Break_Continue.iml" filepath="$PROJECT_DIR$/16_Break_Continue/16_Break_Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Arrays/17_Arrays.iml" filepath="$PROJECT_DIR$/17_Arrays/17_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_For_Loops/For Eac_02/For Eac_02.iml" filepath="$PROJECT_DIR$/15_For_Loops/For Eac_02/For Eac_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_For_Loops/For Loop_01/For Loop_01.iml" filepath="$PROJECT_DIR$/15_For_Loops/For Loop_01/For Loop_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEARNJAVA.iml" filepath="$PROJECT_DIR$/LEARNJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Strings/_01_Notes/_01_Notes.iml" filepath="$PROJECT_DIR$/09_Strings/_01_Notes/_01_Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Strings/_02_Concatenation/_02_Concatenation.iml" filepath="$PROJECT_DIR$/09_Strings/_02_Concatenation/_02_Concatenation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Strings/_03_Special_Character/_03_Special_Character.iml" filepath="$PROJECT_DIR$/09_Strings/_03_Special_Character/_03_Special_Character.iml" />
+    </modules>
+  </component>
+</project>
